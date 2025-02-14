@@ -42,8 +42,10 @@ Topic 7: The importance of taking action on climate change
 Topic 8: Climate change and extreme weather events
 Topic 9: Climate change and global warming
 From the word cloud visualizations of LDA and TF-IDF methods(Figure 1), we can see that the most frequent words in the topics(Topic 0)
+![image](https://github.com/user-attachments/assets/dc46ddf3-351c-44fe-9765-6982fba07859)
 
-  
+![image](https://github.com/user-attachments/assets/d0e04249-e306-44c0-8acf-eba89e7ce779)
+
 Figure 1: Topic Model visualization of LDA and TF-IDF model (Topic 0) using word-cloud
 
 Conclusion
